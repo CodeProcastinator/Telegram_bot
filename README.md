@@ -1,4 +1,4 @@
-# Telegram AI Assistant Bot
+# [Astrobot] Telegram AI Assistant Bot
 
 ## Overview
 This is a sophisticated Telegram bot that leverages Google's Gemini AI model to provide various AI-powered features. The bot can process text queries, analyze images, handle PDF documents, and perform web searches with AI-enhanced summaries.
@@ -119,4 +119,5 @@ The bot stores the following information in MongoDB:
 <Feel free to contribute🤝>
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details
